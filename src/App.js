@@ -24,5 +24,6 @@ const App = () => {
    
   </div>;
 };
-
+// https://internshala.com/internships/front-end-development-internship/ppo-true/
+// https://internshala.com/internship/detail/reactjs-development-internship-in-bangalore-at-openinapp1685420349
 export default App;

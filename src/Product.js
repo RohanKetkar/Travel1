@@ -41,11 +41,7 @@ const Product = () => {
             {
                 
                 currdatas.map((currentdata) => {
-                    return (<div style = {{
-                        backgroundColor:"orange",
-                        margin:"10px",
-                        borderRadius:"40px"
-                    }}>
+                    return (<div >
                        
                         <Card key={currentdata.id} {...currentdata} remove={removehandler} />
                         </div>)
